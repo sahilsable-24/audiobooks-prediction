@@ -64,7 +64,7 @@ The model achieves reasonable accuracy in predicting user behavior, showing the 
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/audiobooks-prediction.git
+   git clone https://github.com/sahilsable-24/audiobooks-prediction.git
    cd audiobooks-prediction
    ```
 
